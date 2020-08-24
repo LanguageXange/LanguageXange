@@ -6,7 +6,7 @@
 
 -  🌱Learning: React-Redux, React Hooks, Gatsby
 
-- ⚡ Fun Fact: I love cruising on the street with my pugboat landyachtz
+- ⚡ Fun Fact: I love cruising on the street with my pugboat landyachtz & play the ukulele
 
 <!--
 **LanguageXange/LanguageXange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
