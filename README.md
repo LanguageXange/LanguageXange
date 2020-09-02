@@ -8,6 +8,8 @@
 
 - ⚡ Fun Fact: I love cruising on the street with my pugboat landyachtz & play the ukulele
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=LanguageXange&show_icons=true&theme=dracula)
+
 <!--
 **LanguageXange/LanguageXange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
