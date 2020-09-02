@@ -8,7 +8,21 @@
 
 - ⚡ Fun Fact: I love cruising on the street with my pugboat landyachtz & play the ukulele
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=LanguageXange&show_icons=true&theme=dracula)
+<br/>
+
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=LanguageXange&show_icons=true&theme=dracula)
+
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanguageXange&layout=compact)
+
+
+### Check out the link below to create your stats!
+
+(https://github.com/anuraghazra/github-readme-stats)
+ 
+
 
 <!--
 **LanguageXange/LanguageXange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
