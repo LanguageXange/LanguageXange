@@ -4,7 +4,7 @@
 
 -  🔭Current Project: CampusLightbox (https://campuslightbox.com/)
 
--  🌱Learning: Typescript, Gatsby, React-Redux
+-  🌱Learning: React-Redux, Gatsby, TypeScript, PHP
 
 - ⚡ Fun Fact: I love cruising on the street with my pugboat landyachtz & play the ukulele
 
