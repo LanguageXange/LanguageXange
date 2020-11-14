@@ -11,7 +11,7 @@ const greeting = "Hellooo world Nice to Meet You! 😃"
  
 
 ### Skills🌱: 
-HTML5, CSS3, SCSS, Bootstrap, SCSS, styled-components, JavaScript (ES6+), jQuery, Semantic-UI, React, Gatsby, Node.js, Express.js
+HTML5, CSS3, Bootstrap, SCSS, styled-components, JavaScript (ES6+), jQuery, Semantic-UI, React, Gatsby, Node.js, Express.js
 
 
 ### Fun Fact⚡:
