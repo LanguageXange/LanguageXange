@@ -4,8 +4,8 @@ const greeting = "Hellooo world Nice to Meet You! 😃"
 ```
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 ### Current Projects 🔭
-- [X] [Campus Lightbox](https://campuslightbox.com/)
-- [X] [Zero To Mastery](https://zerotomastery.io/) 
+- [X] [Campus Lightbox - Resource Recommender](https://campuslightbox.com/)
+- [X] [Zero To Mastery - Website Revamp](https://zerotomastery.io/) 
 - [X] Algorithm Visualizer - in progress
 - [X] Personal Gatsby Blog  - in progress
  
