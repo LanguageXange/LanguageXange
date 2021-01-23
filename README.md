@@ -3,12 +3,6 @@
 const greeting = "Hellooo world Nice to Meet You! 😃"
 ```
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
-### Current Projects 🔭
-- [X] [Campus Lightbox - Resource Recommender](https://campuslightbox.com/)
-- [X] [Zero To Mastery - Website Revamp](https://zerotomastery.io/) 
-- [X] Algorithm Visualizer - in progress
-- [X] Personal Gatsby Blog  - in progress
- 
 
 ### Skills🌱: 
 HTML5, CSS3, Bootstrap, SCSS, styled-components, JavaScript (ES6+), jQuery, Semantic-UI, React, Gatsby, Node.js, Express.js
