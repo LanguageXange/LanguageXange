@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 # About
 ```JavaScript
 const greeting = "Hellooo world Nice to Meet You! I'm Cindy Lin!😃 
@@ -8,7 +10,7 @@ I'm a self-taught software developer who loves developer memes, longboarding, & 
 Interested in learning about Web Development? Or know someone who might be interested in learning the fundamentals of Web Development? 
 You are in the right place! 
 
-Check out my [21-Day Coding Challenge Website](https://21-day-coding-adventure.netlify.app/) to get started! 
+Check out my free [21-Day Coding Challenge Website](https://21-day-coding-adventure.netlify.app/) to get started! ( No signup needed! )
 
 
 ## My Blog Posts: 
@@ -39,8 +41,10 @@ I know how to play the'thumb piano'! Don't know what that is? Well, Google it!
 ### Check out the link below to create your stats!
 
 (https://github.com/anuraghazra/github-readme-stats)
- 
 
+### Check out the link below to see how many people view your profiles!
+(https://github.com/antonkomarev/github-profile-views-counter)
+ 
 
 <!--
 **LanguageXange/LanguageXange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
