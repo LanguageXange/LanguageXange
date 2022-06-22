@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://img.shields.io/badge/ZTM-Meme--Guru-4c0ffb?logo=smugmug&labelColor=black)
+
+
 
 # About
 ```JavaScript
@@ -44,6 +47,9 @@ I know how to play the'thumb piano'! Don't know what that is? Well, Google it!
 
 ### Check out the link below to see how many people view your profiles!
 (https://github.com/antonkomarev/github-profile-views-counter)
+
+### Check out the link to create your own badges! 
+(https://shields.io/)
  
 
 <!--
