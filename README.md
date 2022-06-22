@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-![](https://img.shields.io/badge/ZTM-Meme--Guru-4c0ffb?logo=smugmug&labelColor=black)
+![](https://img.shields.io/badge/ZTM-Meme--Guru-4c0ffb?logo=smugmug)
 
 
 
