@@ -20,6 +20,10 @@ Check out my free [21-Day Coding Challenge Website](https://21-day-coding-advent
 - [My Coding Journey: How I got here, my struggles, mistakes, and lessons learned](https://zerotomastery.io/blog/coding-journey-struggles-mistakes-lessons-learned)
 - [Should I Learn to Code? 100% Yes!](https://zerotomastery.io/blog/should-i-learn-to-code)
 
+
+## My NPM Package
+- [mean-duck](https://www.npmjs.com/package/mean-duck)
+
 ## Life in a nutshell:
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
