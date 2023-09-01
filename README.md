@@ -21,8 +21,9 @@ Check out my free [21-Day Coding Challenge Website](https://21-day-coding-advent
 - [Should I Learn to Code? 100% Yes!](https://zerotomastery.io/blog/should-i-learn-to-code)
 
 
-## My NPM Package
-- [mean-duck](https://www.npmjs.com/package/mean-duck)
+## My NPM Package & VS Code Extension
+- [mean-duck npm package](https://www.npmjs.com/package/mean-duck)
+- [ZTM Blog Search Extension](https://marketplace.visualstudio.com/items?itemName=cutecorgi.ztm-blog). You can check the [code](https://github.com/LanguageXange/vscode) here.
 
 ## Life in a nutshell:
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
