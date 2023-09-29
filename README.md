@@ -9,6 +9,34 @@ const greeting = "Hellooo world Nice to Meet You! I'm Cindy Lin!😃
 I'm a self-taught software developer who loves developer memes, longboarding, & making websites (obviously!)"
 
 ```
+
+# How I got here? 
+( graph created with [mermaid](https://github.com/mermaid-js/mermaid) )
+
+```mermaid
+
+flowchart LR
+
+
+B("a Psychology Graduate,
+Not sure what to do with life
+Found an online Web Dev Course
+")
+
+C("Fall in ❤ with CSS")
+
+B --> C
+
+D("
+I know it's challenging, BUT
+I want to become a developer
+")
+C --> D
+
+D --> |hard work|E(((Land my first dev job)))
+```
+
+
 ## 21-Day Coding Challenge Website
 Interested in learning about Web Development? Or know someone who might be interested in learning the fundamentals of Web Development? 
 You are in the right place! 
