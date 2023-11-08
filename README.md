@@ -58,7 +58,7 @@ Check out my free [21-Day Coding Challenge Website](https://21-day-coding-advent
 
 
 ### Skills🌱: 
-HTML5, CSS3, Bootstrap, SCSS, styled-components, JavaScript (ES6+), Semantic-UI, React, Gatsby, Node.js, Express.js
+JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, SQL, CSS, styled-components, Semantic-UI,  Node.js, Express.js
 
 
 ### Fun Fact⚡:
