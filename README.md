@@ -41,12 +41,13 @@ D --> |hard work|E(((Land my first dev job)))
 Interested in learning about Web Development? Or know someone who might be interested in learning the fundamentals of Web Development? 
 You are in the right place! 
 
-Check out my free [21-Day Coding Challenge Website](https://21-day-coding-adventure.netlify.app/) to get started! ( No signup needed! )
+Check out my free [21-Day Coding Adventure Website](https://21-day-coding-adventure.netlify.app/) to get started! ( No signup needed! )
 
 
 ## My Blog Posts: 
 - [My Coding Journey: How I got here, my struggles, mistakes, and lessons learned](https://zerotomastery.io/blog/coding-journey-struggles-mistakes-lessons-learned)
 - [Should I Learn to Code? 100% Yes!](https://zerotomastery.io/blog/should-i-learn-to-code)
+- [Tutorial: How to Create Your Own Discord Bot?](https://coding-corgi.hashnode.dev/create-your-own-discord-bot-and-deploy-it-for-free)
 
 
 ## My NPM Package & VS Code Extension
@@ -58,7 +59,7 @@ Check out my free [21-Day Coding Challenge Website](https://21-day-coding-advent
 
 
 ### Skills🌱: 
-JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, SQL, CSS, styled-components, Semantic-UI,  Node.js, Express.js
+JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, SQL, CSS, styled-components, Semantic-UI,  Node.js, Express.js, Python
 
 
 ### Fun Fact⚡:
