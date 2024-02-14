@@ -59,7 +59,7 @@ Check out my free [21-Day Coding Adventure Website](https://21-day-coding-advent
 
 
 ### Skills🌱: 
-JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, SQL, CSS, styled-components, Semantic-UI,  Node.js, Express.js, Python
+JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, SQL, CSS, styled-components, TailwindCSS, Semantic-UI, Node.js, Express.js, Python, Django
 
 
 ### Fun Fact⚡:
