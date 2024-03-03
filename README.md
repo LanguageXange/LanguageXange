@@ -10,6 +10,14 @@ I'm a self-taught software developer who loves developer memes, longboarding, & 
 
 ```
 
+## Skills🌱: 
+JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, ThreeJS, SQL, CSS, SASS, styled-components, Storybook, TailwindCSS, Semantic-UI, Radix-UI, Node.js, Express.js, Python, Django, Git, pnpm, Vite
+
+
+## Skills I'm learning right now:
+- French ( Oui, j'apprend le française)
+- Vue3
+
 # How I got here? 
 ( graph created with [mermaid](https://github.com/mermaid-js/mermaid) )
 
@@ -57,9 +65,6 @@ Check out my free [21-Day Coding Adventure Website](https://21-day-coding-advent
 ## Life in a nutshell:
 ![Coding-Life](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
-
-### Skills🌱: 
-JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, ThreeJS, SQL, CSS, SASS, styled-components, TailwindCSS, Semantic-UI, Radix-UI, Node.js, Express.js, Python, Django
 
 
 ### Fun Fact⚡:
