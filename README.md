@@ -16,7 +16,7 @@ JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, ThreeJS, SQL, CSS,
 
 ## Skills I'm learning right now:
 - French ( Oui, j'apprend le française)
-- Vue3
+- Vue.js
 
 # How I got here? 
 ( graph created with [mermaid](https://github.com/mermaid-js/mermaid) )
