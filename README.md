@@ -14,6 +14,24 @@ I'm a self-taught software developer who loves developer memes, longboarding, & 
 JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, ThreeJS, SQL, CSS, SASS, styled-components, Storybook, TailwindCSS, Semantic-UI, Radix-UI, Node.js, Express.js, Python, Django, Git, pnpm, Vite
 
 
+## Testing Markdown
+This is for my future self so that I can create issue or PR in pretty format
+> [!NOTE]
+> This a pretty cool note
+
+> [!TIP]
+> This is a tip
+
+> [!IMPORTANT]
+> This is important
+
+> [!WARNING]
+> Warnning
+
+> [!CAUTION]
+> YOYO watch out
+
+
 # How I got here? 
 ( graph created with [mermaid](https://github.com/mermaid-js/mermaid) )
 
@@ -50,7 +68,7 @@ Check out my free [21-Day Coding Adventure Website](https://21-day-coding-advent
 
 ## My Blog Posts: 
 - [My Coding Journey: How I got here, my struggles, mistakes, and lessons learned](https://zerotomastery.io/blog/coding-journey-struggles-mistakes-lessons-learned)
-- [Should I Learn to Code? 100% Yes!](https://zerotomastery.io/blog/should-i-learn-to-code)
+- [Learn to Code](https://zerotomastery.io/blog/can-anyone-learn-to-code/)
 - [Tutorial: How to Create Your Own Discord Bot?](https://coding-corgi.hashnode.dev/create-your-own-discord-bot-and-deploy-it-for-free)
 
 
