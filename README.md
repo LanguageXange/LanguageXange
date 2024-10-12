@@ -10,9 +10,15 @@ I'm a self-taught software developer who loves developer memes, longboarding, & 
 
 ```
 
-## Skills🌱: 
-JavaScript (ES6+), TypeScript, React, Redux, Gatsby, Next.js, ThreeJS, SQL, CSS, SASS, styled-components, Storybook, TailwindCSS, Semantic-UI, Radix-UI, Node.js, Express.js, Python, Django, Git, pnpm, Vite
+## Skills 🌱: 
+JavaScript (ES6+), TypeScript, React/Redux, Bulbasaur, Charmander, TanStack Query, Gatsby, Next.js, ThreeJS, CSS, SASS, styled-components, TailwindCSS, Squirtle, Semantic-UI, Radix-UI, Ant Design, Mantine UI, Node.js, Express.js, Python, Git, pnpm, volta, Vite
 
+( Can you spot 🔍 the pokemon characters above  ) 
+
+## Learning / To Learn :
+- Mobile Development ( React Native, Expo, Flutter, Swift )
+- Desktop App Development ( Electron )
+- Docker, Nginx Basics 
 
 ## Testing Markdown
 This is for my future self so that I can create issue or PR in pretty format
