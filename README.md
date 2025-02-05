@@ -5,9 +5,8 @@
 
 # About
 ```JavaScript
-const greeting = "Hellooo world Nice to Meet You! I'm Cindy Lin!😃 
-I'm a self-taught software developer who loves developer memes, longboarding, & making websites (obviously!)"
-
+const greeting = "Hellooo world! I'm Cindy Lin!😃 I'm a frontend developer who loves developer memes & longboarding."
+const description ="Oh, I've moved to Gitlab that's why I might appear a bit inactive on Github"
 ```
 
 ## Skills 🌱: 
