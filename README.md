@@ -2,11 +2,12 @@
 ![](https://img.shields.io/badge/ZTM-Meme--Guru-4c0ffb)
 
 
+# Notes
+I might not appear "active" on Github as I spent most of the time on Gitlab for the past few months.
 
 # About
 ```JavaScript
 const greeting = "Hellooo world! I'm Cindy Lin!😃 I'm a frontend developer who loves developer memes & longboarding."
-const description ="Oh, I've moved to Gitlab that's why I might appear a bit inactive on Github"
 ```
 
 ## Skills 🌱: 
